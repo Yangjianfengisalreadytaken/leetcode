@@ -1,0 +1,16 @@
+# Eclipse project files
+.classpath
+.project
+.settings/
+.svn/
+
+# Others
+target/
+logs
+out/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+
